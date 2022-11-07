@@ -32,4 +32,4 @@ spec:
           ## The location of the banner. Options: BannerTop, BannerBottom, BannerTopBottom
           location: BannerTop
           ## The text that should be displayed in the banner. This value is required for the banner to be created
-          text: "Bank of America"
+          text: "Bank of America B2Bi Cluster"
